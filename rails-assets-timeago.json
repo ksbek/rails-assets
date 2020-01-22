@@ -1,0 +1,39 @@
+{
+  "name": "rails-assets-timeago",
+  "downloads": null,
+  "version": "1.6.3",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "",
+  
+  "licenses": "MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "https://github.com/rmm5t/jquery-timeago",
+  "gem_uri": null,
+  "homepage_uri": "https://github.com/rmm5t/jquery-timeago",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "https://github.com/rmm5t/jquery-timeago",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    
+    {
+      "name": "rails-assets-jquery",
+      "requirements": ">= 1.4"
+    },
+    
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
